@@ -25,8 +25,8 @@ Host github.com-work
         url = git@github.com-personal:pawan1210/LLD.git
         fetch = +refs/heads/*:refs/remotes/origin/*
 [user]
-    name = pawan1210
-    email = pawansaggu007@gmail.com
+    name = username
+    email = email
 ~                                      
 ```
 # using this tutorial -> https://gist.github.com/Jonalogy/54091c98946cfe4f8cdab2bea79430f9
