@@ -13,6 +13,12 @@ Host github.com-work
    IdentityFile ~/.ssh/id_rsa
 ```
 
+Use the below command to update the local config
+```
+git config --local -e
+```
+
+Config to Update
 ```
 [core]
         repositoryformatversion = 0
